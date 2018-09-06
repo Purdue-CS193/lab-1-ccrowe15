@@ -1,16 +1,16 @@
 # CROWE15's GITHUB PAGE
 
 ### I love CS193...
-- only one class a week
-- helpful
+- only one class _a week_
+- **helpful**
 - a break from the harder classes
 
 
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+[Link](url) and ![https://images.genius.com/b20ee56925b1bd58ee592d683c5e9b4b.1000x1000x1.png](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
